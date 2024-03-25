@@ -1,4 +1,4 @@
-#  Simpson's 1/8 rule
+#  Simpson's 1/3 rule
 
 def simpson1_3(x, y):
 
